@@ -1,0 +1,206 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width:90%;
+    margin:auto;
+}
+
+.card-row{
+    width:90%;
+}
+
+
+.card-image1{
+    width:10%;
+    padding-top:30px;
+}
+
+.card-image1 img{
+    width:100%;
+
+}
+
+
+.card-image2{
+    width:70%;
+   
+  
+}
+
+.card-image2 .pic4{
+    width:100%;
+    padding:30px 40px;
+  
+}
+
+.add-btn{
+    width:100%;
+    padding-left:35px;
+   
+}
+
+.add-btn button{
+    text-decoration: none;
+    border: 2px solid black;
+    padding:10px 40px;
+}
+
+.add-btn .i1{
+    color:black;
+}
+
+.add-btn .btn{
+    background-color: rgb(231, 60, 177);
+    margin: 5px;
+    border-radius: 10px;
+
+}
+.btn1{
+    border-radius: 10px;
+}
+
+.add-btn .btn span{
+    color:white;
+}
+
+.add-btn .btn .i2{
+    color:white;
+}
+
+.card-image3{
+    display:flex;
+    width:18%;
+    padding-top:20px;
+}
+.card-image3 img{
+width:100%;
+padding: 2px;
+
+}
+
+.head{
+    padding-top: 20px;
+    
+}
+
+.card-col2{
+    padding-top: 40px;
+}
+
+.card-col2 a{
+ text-decoration: none;
+
+}
+
+.card-col2 .star{
+    border:2px solid green;
+    padding: 0px 10px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+}
+
+.card-col2 .i7{
+    font-size:10px;
+    color: white;
+}
+
+.card-col2 .para{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.free{
+    padding-top: 10px;
+}
+.rating{
+    padding-left:5px;
+}
+
+.card-col2 h5{
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.card-col2 .size{
+    border:2px solid black;
+    border-radius: 30px;
+    padding: 5px 10px;
+    color: black;
+}
+
+.card-col2 h6{
+    padding-top: 20px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.card-col2 .info{
+    padding-top: 10px;
+    color: black;
+    display: inline-block;
+}
+
+.sold{
+    padding-bottom: 20px;
+}
+
+.pn{
+    padding: 0 10px;
+}
+.shop{
+    padding: 10px;
+    color: red;
+}
+
+.shop{
+
+    border: 1px solid red;
+
+}
+
+
+
+.end{
+    display: flex;
+    padding-top: 30px;
+}
+
+.end .comp{
+    width: 50px;
+    height:20px;
+}
+
+.ra{
+    padding: 10px;
+}
+
+.ra .num{
+    color: blue;
+    border: 1px solid blue;
+    padding:2px 10px;
+    border-radius: 30px;
+}
+
+.head h4{
+    padding-top: 10px;
+}
+
+.card-image3 .image1{
+    border: 1px solid rgb(220, 46, 145);
+}
+
+.card-image1 .pic{
+    border: 1px solid rgb(220, 46, 145);
+}
+
+
+
+
+
+
+

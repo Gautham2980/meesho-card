@@ -1,0 +1,49 @@
+@media(min-width:320px){
+
+    .card-row{
+        display:flex;
+        flex-wrap: wrap;
+    }
+    .card-col2{
+        width: 100%;
+    }
+    
+    .card-col{
+        width:100%;
+        display:flex;
+    }
+
+}
+
+
+@media(min-width:660px){
+   
+    .card-row{
+        display:flex;
+        flex-wrap: wrap;
+    }
+    .card-col2{
+        width: 100%;
+    }
+    
+    .card-col{
+        width:100%;
+        display:flex;
+    }
+    
+
+}
+
+@media(min-width:960px){
+    .card-row{
+        display:flex;
+    }
+    .card-col2{
+        width: 45%;
+    }
+    
+    .card-col{
+        width:45%;
+        display:flex;
+    }
+}
